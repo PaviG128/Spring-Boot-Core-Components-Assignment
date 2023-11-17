@@ -1,16 +1,13 @@
 # Spring-Boot-Core-Components-Assignment
-
 This Project is a Simple Spring Boot Application for managing students and updating their scores.
 
 ## Prerequisites
- 
 - Java 17
 - Maven
  
 ## Getting Started
- 
 1. Clone the repository:
-git clone https://github.com/yourusername/spring-boot-school-management.git
+git clone https://github.com/PaviG128/Spring-Boot-Core-Components-Assignment.git
   
 2. Navigate to the project directory:
 cd spring-boot-school-management
@@ -19,7 +16,7 @@ cd spring-boot-school-management
 mvn clean install
  
 4. Run the application
-java -jar target/spring-boot-school-management.jar
+java -jar target/boot-core(1).jar
    
 5. Access the application in the browser:
 http://localhost:8080
@@ -39,6 +36,3 @@ http://localhost:8080
 - Initialization message: "StudentService has been initiated."
 - Destruction message: "StudentService is being destroyed."
 - Scoring system logs for each student update.
- 
- ## License
- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
